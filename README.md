@@ -36,56 +36,60 @@ fun_fact: I fix WSL2/Docker networking bugs at 2 AM for sport
 
 ##  Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+<div align="center"> 
+<a href="https://github.com/mohamedbadishajji/TaskPilot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=TaskPilot&theme=tokyonight&hide_border=true" /> </a> 
+<a href="https://github.com/mohamedbadishajji/Skycast"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=Skycast&theme=tokyonight&hide_border=true" /> </a> 
+<a href="https://github.com/mohamedbadishajji/ai-code-review-agent"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=ai-code-review-agent&theme=tokyonight&hide_border=true" /> </a> </div> <br/> <details open> <summary><b>📋 TaskPilot</b> — Full-stack task manager with JWT auth & role-based security</summary> <br/>
 
-###  [TaskPilot](https://github.com/mohamedbadishajji/TaskPilot)
-Full-stack task management app with JWT auth and role-based security.
+Show Image Show Image Show Image
 
-`React` `Vite` `Spring Boot 3` `Spring Security` `PostgreSQL` `Docker`
+React Vite Spring Boot 3 Spring Security PostgreSQL Docker JWT
 
-</td>
-<td width="50%">
+Task management platform with role-based access, secure authentication and a Dockerized PostgreSQL backend.
 
-###  Skycast
-Full-stack weather dashboard with live forecasts and auth.
+→ View Repository
 
-`Next.js` `TypeScript` `Tailwind` `NextAuth.js` `Prisma` `SQLite`
+</details> <details> <summary><b> Skycast</b> — Full-stack weather dashboard with live forecasts</summary> <br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+Show Image Show Image Show Image
 
-###  CarthaVoyage
-Travel agency platform with smart budgeting, loyalty points & analytics.
+Next.js TypeScript Tailwind NextAuth.js Prisma SQLite Open-Meteo API
 
-`Node.js` `Express` `React` `Vite` `JWT` `Recharts`
+Weather dashboard pulling live forecast data, with authenticated user sessions and a Prisma-backed database.
 
-</td>
-<td width="50%">
+→ View Repository
 
-###  AI Code Review Agent
-Automated PR reviewer using AWS Bedrock (Claude) + GitHub webhooks + Jira.
+</details> <details> <summary><b> CaethaVoyage</b> — Travel agency platform with smart budgeting & analytics</summary> <br/>
 
-`AWS ` `Azure` `GitHub` `Jira `
+Show Image Show Image Show Image
 
-</td>
-</tr>
-<tr>
-<td width="50%" colspan="2">
+Node.js Express React Vite JWT Recharts lowdb
 
-###  Real-Time Age & Emotion Detection
-Browser + Python computer vision tool using OpenCV & Caffe DNN models on a live camera feed.
+Travel booking platform with a smart budget suggestion engine, loyalty points, coupon codes, and an admin dashboard with live charts.
 
-`Python` `OpenCV` `Caffe` `Computer Vision`
+→ View Repository
 
-</td>
-</tr>
-</table>
+</details> <details> <summary><b> AI Code Review Agent</b> — Automated PR reviewer powered by Claude</summary> <br/>
 
-<br/>
+Show Image Show Image
+
+AWS  Azure GitHub Webhooks Jira 
+
+Reviews pull requests automatically via GitHub webhooks, scores severity of issues found, comments directly on the PR, and syncs findings to Jira "REVUE" epics.
+
+→ View Repository
+
+</details> <details> <summary><b> Real-Time Age & Emotion Detection</b> — Live computer vision on camera feed</summary> <br/>
+
+Show Image Show Image
+
+Python OpenCV Caffe Computer Vision
+
+Real-time age and emotion detection from a live camera feed, built with pure OpenCV and Caffe-based DNN models.
+
+→ View Repository
+
+</details> <br/>
 
 ##  GitHub Stats
 
