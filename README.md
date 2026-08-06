@@ -11,7 +11,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+##  About Me
 
 ```yaml
 name: Mohamed Badis Hajji
