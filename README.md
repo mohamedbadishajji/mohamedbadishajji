@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9370DB&height=220&section=header&text=Mohamed%20Badis%20Hajji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9370DB&height=220&section=header&text=Mohamed%20Badis%20Hajji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20and%20AI%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+actually+ship;Currently+shipping%3A+TaskPilot+%F0%9F%9A%80;AI+Engineering+Intern+%40+Smartovate;Always+debugging+something+at+2AM+%F0%9F%90%9B" />
 
@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
-## 👨‍💻 About Me
+##  About Me
 
 ```yaml
 name: Mohamed Badis Hajji
@@ -30,7 +30,7 @@ fun_fact: I fix WSL2/Docker networking bugs at 2 AM for sport
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
-## 🎠 Featured Projects
+##  Featured Projects
 
 <div align="center"><sub>● 1/5 — scroll down for the next project ●</sub></div>
 <br/>
