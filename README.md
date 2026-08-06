@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
-##  About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Mohamed Badis Hajji
@@ -30,7 +30,7 @@ fun_fact: I fix WSL2/Docker networking bugs at 2 AM for sport
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
-##  Featured Projects
+## 🎠 Featured Projects
 
 <div align="center"><sub>● 1/5 — scroll down for the next project ●</sub></div>
 <br/>
@@ -136,8 +136,8 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamedbadishajji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedbadishajji&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+<img src="https://github-readme-stats-teal-ten-62.vercel.app/api?username=mohamedbadishajji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-teal-ten-62.vercel.app/api/top-langs/?username=mohamedbadishajji&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
 
 <br/>
 
@@ -158,7 +158,7 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 ##  Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
