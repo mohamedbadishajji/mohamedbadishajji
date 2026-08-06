@@ -39,7 +39,8 @@ fun_fact: I fix WSL2/Docker networking bugs at 2 AM for sport
 <div align="center"> 
 <a href="https://github.com/mohamedbadishajji/TaskPilot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=TaskPilot&theme=tokyonight&hide_border=true" /> </a> 
 <a href="https://github.com/mohamedbadishajji/Skycast"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=Skycast&theme=tokyonight&hide_border=true" /> </a> 
-<a href="https://github.com/mohamedbadishajji/ai-code-review-agent"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=ai-code-review-agent&theme=tokyonight&hide_border=true" /> </a> </div> <br/> <details open> <summary><b>📋 TaskPilot</b> — Full-stack task manager with JWT auth & role-based security</summary> <br/>
+<a href="https://github.com/mohamedbadishajji/ai-code-review-agent"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=ai-code-review-agent&theme=tokyonight&hide_border=true" /> </a> </div> <br/> <details open> <summary><b>
+TaskPilot</b> — Full-stack task manager with JWT auth & role-based security</summary> <br/>
 
 Show Image Show Image Show Image
 
