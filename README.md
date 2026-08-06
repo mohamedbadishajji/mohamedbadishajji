@@ -113,7 +113,7 @@ Browser + Python computer vision tool using OpenCV & Caffe DNN models on a live 
 ##  Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/>
