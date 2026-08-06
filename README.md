@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mohamed+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%8E%93;Full-Stack+%26+AI+Engineer+in+the+making;I+build+things+and+break+things+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9370DB&height=220&section=header&text=Mohamed%20Badis%20Hajji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20%26%20AI%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+actually+ship;Currently+shipping%3A+TaskPilot+%F0%9F%9A%80;AI+Engineering+Intern+%40+Smartovate;Always+debugging+something+at+2AM+%F0%9F%90%9B" />
 
 <br/>
 
@@ -9,7 +11,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
 ##  About Me
 
@@ -22,75 +24,112 @@ recently: AI Engineering Internship @ Smartovate (Jun–Jul 2026)
 fun_fact: I fix WSL2/Docker networking bugs at 2 AM for sport
 ```
 
-<br/>
-
-##  Tech Stack
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,java,spring,react,nextjs,js,ts,python,postgres,mysql,docker,aws,git,github,html,css,linux,vscode&theme=dark" />
-
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
 ##  Featured Projects
 
-<div align="center"> 
-<a href="https://github.com/mohamedbadishajji/TaskPilot"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=TaskPilot&theme=tokyonight&hide_border=true" /> </a> 
-<a href="https://github.com/mohamedbadishajji/Skycast"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=Skycast&theme=tokyonight&hide_border=true" /> </a> 
-<a href="https://github.com/mohamedbadishajji/ai-code-review-agent"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedbadishajji&repo=ai-code-review-agent&theme=tokyonight&hide_border=true" /> </a> </div> <br/> <details open> <summary><b>
-TaskPilot</b> — Full-stack task manager with JWT auth & role-based security</summary> <br/>
+<div align="center"><sub>● 1/5 — scroll down for the next project ●</sub></div>
+<br/>
 
-Show Image Show Image Show Image
+<div align="center">
 
-React Vite Spring Boot 3 Spring Security PostgreSQL Docker JWT
+[![TaskPilot](https://socialify.git.ci/mohamedbadishajji/TaskPilot/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Circuit+Board&stargazers=1&theme=Dark)](https://github.com/mohamedbadishajji/TaskPilot)
+
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/TaskPilot?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/TaskPilot?style=flat-square&color=FFD700)
+![Repo Size](https://img.shields.io/github/repo-size/mohamedbadishajji/TaskPilot?style=flat-square&color=9370DB)
+
+`React` `Vite` `Spring Boot 3` `Spring Security` `PostgreSQL` `Docker` `JWT`
 
 Task management platform with role-based access, secure authentication and a Dockerized PostgreSQL backend.
 
-→ View Repository
+**[→ View Repository](https://github.com/mohamedbadishajji/TaskPilot)**
 
-</details> <details> <summary><b> Skycast</b> — Full-stack weather dashboard with live forecasts</summary> <br/>
+</div>
 
-Show Image Show Image Show Image
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:00D9FF&height=2&section=header" width="100%"/>
+<div align="center"><sub>● 2/5 ●</sub></div>
+<br/>
 
-Next.js TypeScript Tailwind NextAuth.js Prisma SQLite Open-Meteo API
+<div align="center">
+
+[![Skycast](https://socialify.git.ci/mohamedbadishajji/Skycast/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Signal&stargazers=1&theme=Dark)](https://github.com/mohamedbadishajji/Skycast)
+
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/Skycast?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/Skycast?style=flat-square&color=FFD700)
+![Repo Size](https://img.shields.io/github/repo-size/mohamedbadishajji/Skycast?style=flat-square&color=9370DB)
+
+`Next.js` `TypeScript` `Tailwind` `NextAuth.js` `Prisma` `SQLite` `Open-Meteo API`
 
 Weather dashboard pulling live forecast data, with authenticated user sessions and a Prisma-backed database.
 
-→ View Repository
+**[→ View Repository](https://github.com/mohamedbadishajji/Skycast)**
 
-</details> <details> <summary><b> CaethaVoyage</b> — Travel agency platform with smart budgeting & analytics</summary> <br/>
+</div>
 
-Show Image Show Image Show Image
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=2&section=header" width="100%"/>
+<div align="center"><sub>● 3/5 ●</sub></div>
+<br/>
 
-Node.js Express React Vite JWT Recharts lowdb
+<div align="center">
+
+[![CaethaVoyage](https://socialify.git.ci/mohamedbadishajji/CaethaVoyage/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Floating+Cogs&stargazers=1&theme=Dark)](https://github.com/mohamedbadishajji/CaethaVoyage)
+
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/CaethaVoyage?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/CaethaVoyage?style=flat-square&color=FFD700)
+![Repo Size](https://img.shields.io/github/repo-size/mohamedbadishajji/CaethaVoyage?style=flat-square&color=9370DB)
+
+`Node.js` `Express` `React` `Vite` `JWT` `Recharts` `lowdb`
 
 Travel booking platform with a smart budget suggestion engine, loyalty points, coupon codes, and an admin dashboard with live charts.
 
-→ View Repository
+**[→ View Repository](https://github.com/mohamedbadishajji/CaethaVoyage)**
 
-</details> <details> <summary><b> AI Code Review Agent</b> — Automated PR reviewer powered by Claude</summary> <br/>
+</div>
 
-Show Image Show Image
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:00D9FF&height=2&section=header" width="100%"/>
+<div align="center"><sub>● 4/5 ●</sub></div>
+<br/>
 
-AWS  Azure GitHub Webhooks Jira 
+<div align="center">
+
+[![AI Code Review Agent](https://socialify.git.ci/mohamedbadishajji/ai-code-review-agent/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Brick+Wall&theme=Dark)](https://github.com/mohamedbadishajji/ai-code-review-agent)
+
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/ai-code-review-agent?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/ai-code-review-agent?style=flat-square&color=FFD700)
+
+`AWS Bedrock` `Claude` `GitHub Webhooks` `Jira API`
 
 Reviews pull requests automatically via GitHub webhooks, scores severity of issues found, comments directly on the PR, and syncs findings to Jira "REVUE" epics.
 
-→ View Repository
+**[→ View Repository](https://github.com/mohamedbadishajji/ai-code-review-agent)**
 
-</details> <details> <summary><b> Real-Time Age & Emotion Detection</b> — Live computer vision on camera feed</summary> <br/>
+</div>
 
-Show Image Show Image
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=2&section=header" width="100%"/>
+<div align="center"><sub>● 5/5 ●</sub></div>
+<br/>
 
-Python OpenCV Caffe Computer Vision
+<div align="center">
+
+[![Age & Emotion Detection](https://socialify.git.ci/mohamedbadishajji/age-emotion-detection/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark)](https://github.com/mohamedbadishajji/age-emotion-detection)
+
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/age-emotion-detection?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/age-emotion-detection?style=flat-square&color=FFD700)
+
+`Python` `OpenCV` `Caffe` `Computer Vision`
 
 Real-time age and emotion detection from a live camera feed, built with pure OpenCV and Caffe-based DNN models.
 
-→ View Repository
+**[→ View Repository](https://github.com/mohamedbadishajji/age-emotion-detection)**
 
-</details> <br/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
 ##  GitHub Stats
 
@@ -105,7 +144,7 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
 ##  Trophies
 
@@ -113,7 +152,7 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 <img src="https://github-profile-trophy.vercel.app/?username=mohamedbadishajji&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
 ##  Contribution Snake
 
@@ -121,20 +160,16 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 <img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake.svg" />
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
-##  Let's Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="www.linkedin.com/in/mohamed-badis-hajji-1871b636b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:badis.hajji@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://[YOUR-PORTFOLIO-URL](https://mohamed-badis-portfolio.vercel.app/)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-badis-hajji-1871b636b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:badis.hajji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mohamed-badis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9370DB&height=100&section=footer" width="100%"/>
