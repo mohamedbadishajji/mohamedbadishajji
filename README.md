@@ -19,7 +19,6 @@
 name: Mohamed Badis Hajji
 role: 1st Year Computer Science Student @ ENICarthage
 focus: Full-Stack Development · AI Engineering · Backend Systems
-currently_building: TaskPilot — a full-stack task management app
 recently: AI Engineering Internship @ Smartovate (Jun–Jul 2026)
 fun_fact: I fix WSL2/Docker networking bugs at 2 AM for sport
 ```
