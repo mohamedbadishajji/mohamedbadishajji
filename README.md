@@ -101,7 +101,7 @@ Travel booking platform with a smart budget suggestion engine, loyalty points, c
 ![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/agent-revue-code?style=flat-square&color=00D9FF&label=updated)
 ![Stars](https://img.shields.io/github/stars/mohamedbadishajji/agent-revue-code?style=flat-square&color=FFD700)
 
-`AWS Bedrock` `Claude` `GitHub Webhooks` `Jira API`
+`AWS` `Azure` `GitHub Webhooks` `Jira`
 
 Reviews pull requests automatically via GitHub webhooks, scores severity of issues found, comments directly on the PR, and syncs findings to Jira "REVUE" epics.
 
