@@ -147,14 +147,6 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
 
-##  Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedbadishajji&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
-
 ##  Contribution Snake
 
 <div align="center">
@@ -168,7 +160,7 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-badis-hajji-1871b636b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:badis.hajji@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:badis.hajji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://mohamed-badis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
