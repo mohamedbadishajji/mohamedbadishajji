@@ -77,17 +77,17 @@ Weather dashboard pulling live forecast data, with authenticated user sessions a
 
 <div align="center">
 
-[![CaethaVoyage](https://socialify.git.ci/mohamedbadishajji/CaethaVoyage/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Floating+Cogs&stargazers=1&theme=Dark)](https://github.com/mohamedbadishajji/CaethaVoyage)
+[![CarthaVoyage](https://socialify.git.ci/Nour-Faker/Carthavoyage-TravelAgency/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Floating+Cogs&stargazers=1&theme=Dark)](https://github.com/Nour-Faker/Carthavoyage-TravelAgency)
 
-![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/CaethaVoyage?style=flat-square&color=00D9FF&label=updated)
-![Stars](https://img.shields.io/github/stars/mohamedbadishajji/CaethaVoyage?style=flat-square&color=FFD700)
-![Repo Size](https://img.shields.io/github/repo-size/mohamedbadishajji/CaethaVoyage?style=flat-square&color=9370DB)
+![Last Commit](https://img.shields.io/github/last-commit/Nour-Faker/Carthavoyage-TravelAgency?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/Nour-Faker/Carthavoyage-TravelAgency?style=flat-square&color=FFD700)
+![Repo Size](https://img.shields.io/github/repo-size/Nour-Faker/Carthavoyage-TravelAgency?style=flat-square&color=9370DB)
 
 `Node.js` `Express` `React` `Vite` `JWT` `Recharts` `lowdb`
 
-Travel booking platform with a smart budget suggestion engine, loyalty points, coupon codes, and an admin dashboard with live charts.
+Travel booking platform with a smart budget suggestion engine, loyalty points, coupon codes, and an admin dashboard with live charts. *Built as a team project.*
 
-**[→ View Repository](https://github.com/mohamedbadishajji/CaethaVoyage)**
+**[→ View Repository](https://github.com/Nour-Faker/Carthavoyage-TravelAgency)**
 
 </div>
 
@@ -97,16 +97,16 @@ Travel booking platform with a smart budget suggestion engine, loyalty points, c
 
 <div align="center">
 
-[![AI Code Review Agent](https://socialify.git.ci/mohamedbadishajji/ai-code-review-agent/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Brick+Wall&theme=Dark)](https://github.com/mohamedbadishajji/ai-code-review-agent)
+[![Agent Revue de Code](https://socialify.git.ci/mohamedbadishajji/agent-revue-code/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Brick+Wall&theme=Dark)](https://github.com/mohamedbadishajji/agent-revue-code)
 
-![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/ai-code-review-agent?style=flat-square&color=00D9FF&label=updated)
-![Stars](https://img.shields.io/github/stars/mohamedbadishajji/ai-code-review-agent?style=flat-square&color=FFD700)
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/agent-revue-code?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/agent-revue-code?style=flat-square&color=FFD700)
 
 `AWS Bedrock` `Claude` `GitHub Webhooks` `Jira API`
 
 Reviews pull requests automatically via GitHub webhooks, scores severity of issues found, comments directly on the PR, and syncs findings to Jira "REVUE" epics.
 
-**[→ View Repository](https://github.com/mohamedbadishajji/ai-code-review-agent)**
+**[→ View Repository](https://github.com/mohamedbadishajji/agent-revue-code)**
 
 </div>
 
@@ -116,16 +116,17 @@ Reviews pull requests automatically via GitHub webhooks, scores severity of issu
 
 <div align="center">
 
-[![Age & Emotion Detection](https://socialify.git.ci/mohamedbadishajji/age-emotion-detection/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark)](https://github.com/mohamedbadishajji/age-emotion-detection)
+[![Age & Emotion Detection](https://socialify.git.ci/mohamedbadishajji/Age-Emotion-Detection/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Solid&theme=Dark)](https://github.com/mohamedbadishajji/Age-Emotion-Detection)
 
-![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/age-emotion-detection?style=flat-square&color=00D9FF&label=updated)
-![Stars](https://img.shields.io/github/stars/mohamedbadishajji/age-emotion-detection?style=flat-square&color=FFD700)
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/Age-Emotion-Detection?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/Age-Emotion-Detection?style=flat-square&color=FFD700)
+![Repo Size](https://img.shields.io/github/repo-size/mohamedbadishajji/Age-Emotion-Detection?style=flat-square&color=9370DB)
 
 `Python` `OpenCV` `Caffe` `Computer Vision`
 
 Real-time age and emotion detection from a live camera feed, built with pure OpenCV and Caffe-based DNN models.
 
-**[→ View Repository](https://github.com/mohamedbadishajji/age-emotion-detection)**
+**[→ View Repository](https://github.com/mohamedbadishajji/Age-Emotion-Detection)**
 
 </div>
 
@@ -167,7 +168,7 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-badis-hajji-1871b636b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:badis.hajji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:badis.hajji@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://mohamed-badis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
