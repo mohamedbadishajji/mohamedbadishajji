@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:9370DB&height=220&section=header&text=Mohamed%20Badis%20Hajji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20and%20AI%20Engineer&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+actually+ship;AI+Engineering+Intern+%40+Smartovate;Always+debugging+something+at+2AM+%F0%9F%90%9B" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+that+actually+ship;AI+Engineering+Intern+%40+Smartovate+LTD;Always+debugging+something+at+2AM+%F0%9F%90%9B" />
 
 <br/>
 
