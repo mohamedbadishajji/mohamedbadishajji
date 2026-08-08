@@ -31,7 +31,7 @@ fun_fact: I fix WSL2/Docker networking bugs at 2 AM for sport
 
 ##  Featured Projects
 
-<div align="center"><sub>● 1/5 — scroll down for the next project ●</sub></div>
+<div align="center"><sub>● 1/6 — scroll down for the next project ●</sub></div>
 <br/>
 
 <div align="center">
@@ -51,7 +51,7 @@ Task management platform with role-based access, secure authentication and a Doc
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:00D9FF&height=2&section=header" width="100%"/>
-<div align="center"><sub>● 2/5 ●</sub></div>
+<div align="center"><sub>● 2/6 ●</sub></div>
 <br/>
 
 <div align="center">
@@ -71,7 +71,7 @@ Weather dashboard pulling live forecast data, with authenticated user sessions a
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=2&section=header" width="100%"/>
-<div align="center"><sub>● 3/5 ●</sub></div>
+<div align="center"><sub>● 3/6 ●</sub></div>
 <br/>
 
 <div align="center">
@@ -91,7 +91,7 @@ Travel booking platform with a smart budget suggestion engine, loyalty points, c
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:00D9FF&height=2&section=header" width="100%"/>
-<div align="center"><sub>● 4/5 ●</sub></div>
+<div align="center"><sub>● 4/6 ●</sub></div>
 <br/>
 
 <div align="center">
@@ -110,7 +110,7 @@ Reviews pull requests automatically via GitHub webhooks, scores severity of issu
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=2&section=header" width="100%"/>
-<div align="center"><sub>● 5/5 ●</sub></div>
+<div align="center"><sub>● 5/6 ●</sub></div>
 <br/>
 
 <div align="center">
@@ -126,6 +126,26 @@ Reviews pull requests automatically via GitHub webhooks, scores severity of issu
 Real-time age and emotion detection from a live camera feed, built with pure OpenCV and Caffe-based DNN models.
 
 **[→ View Repository](https://github.com/mohamedbadishajji/Age-Emotion-Detection)**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:00D9FF&height=2&section=header" width="100%"/>
+<div align="center"><sub>● 6/6 ●</sub></div>
+<br/>
+
+<div align="center">
+
+[![Support Signal](https://socialify.git.ci/mohamedbadishajji/ai-support-agent/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Diagonal+Stripes&stargazers=1&theme=Dark)](https://github.com/mohamedbadishajji/ai-support-agent)
+
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/ai-support-agent?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/ai-support-agent?style=flat-square&color=FFD700)
+![Repo Size](https://img.shields.io/github/repo-size/mohamedbadishajji/ai-support-agent?style=flat-square&color=9370DB)
+
+`Next.js` `LangChain` `Gemini` `Supabase` `pgvector` `Vercel AI SDK` `Framer Motion`
+
+AI customer support agent using RAG to answer questions from live documentation, with streaming chat, persistent history, automatic human escalation, and multi-language support.
+
+**[→ Live Demo](https://ai-support-agent-p4y1.vercel.app/)** · **[→ View Repository](https://github.com/mohamedbadishajji/ai-support-agent)**
 
 </div>
 
