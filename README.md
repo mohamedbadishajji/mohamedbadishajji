@@ -170,7 +170,7 @@ Real-time age and emotion detection from a live camera feed, built with pure Ope
 ##  Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake.svg" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
