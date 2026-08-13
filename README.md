@@ -19,6 +19,7 @@
 name: Mohamed Badis Hajji
 role: 1st Year Computer Science Student @ ENICarthage
 focus: Full-Stack Development · AI Engineering · Backend Systems
+currently_building: TaskPilot — a full-stack task management app
 recently: AI Engineering Internship @ Smartovate (Jun–Jul 2026)
 fun_fact: I fix WSL2/Docker networking bugs at 2 AM for sport
 ```
@@ -101,7 +102,7 @@ Travel booking platform with a smart budget suggestion engine, loyalty points, c
 ![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/agent-revue-code?style=flat-square&color=00D9FF&label=updated)
 ![Stars](https://img.shields.io/github/stars/mohamedbadishajji/agent-revue-code?style=flat-square&color=FFD700)
 
-`AWS` `Azure` `GitHub Webhooks` `Jira`
+`AWS Bedrock` `Claude` `GitHub Webhooks` `Jira API`
 
 Reviews pull requests automatically via GitHub webhooks, scores severity of issues found, comments directly on the PR, and syncs findings to Jira "REVUE" epics.
 
@@ -109,8 +110,28 @@ Reviews pull requests automatically via GitHub webhooks, scores severity of issu
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:00D9FF&height=2&section=header" width="100%"/>
 <div align="center"><sub>● 5/6 ●</sub></div>
+<br/>
+
+<div align="center">
+
+[![Verso](https://socialify.git.ci/mohamedbadishajji/cv-analyzer-agent/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Diagonal+Stripes&stargazers=1&theme=Dark)](https://github.com/mohamedbadishajji/cv-analyzer-agent)
+
+![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/cv-analyzer-agent?style=flat-square&color=00D9FF&label=updated)
+![Stars](https://img.shields.io/github/stars/mohamedbadishajji/cv-analyzer-agent?style=flat-square&color=FFD700)
+![Repo Size](https://img.shields.io/github/repo-size/mohamedbadishajji/cv-analyzer-agent?style=flat-square&color=9370DB)
+
+`Next.js 16` `TypeScript` `Tailwind CSS v4` `Framer Motion` `Google Gemini` `LangChain` `Vercel AI SDK` `Supabase`
+
+AI-powered CV analysis agent — scores resumes across format, content, and experience, then suggests concrete improvements. Includes a real-time conversational chat that keeps full context of the CV and its evaluation.
+
+**[→ View Repository](https://github.com/mohamedbadishajji/cv-analyzer-agent)**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=2&section=header" width="100%"/>
+<div align="center"><sub>● 6/6 ●</sub></div>
 <br/>
 
 <div align="center">
@@ -126,26 +147,6 @@ Reviews pull requests automatically via GitHub webhooks, scores severity of issu
 Real-time age and emotion detection from a live camera feed, built with pure OpenCV and Caffe-based DNN models.
 
 **[→ View Repository](https://github.com/mohamedbadishajji/Age-Emotion-Detection)**
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9370DB,100:00D9FF&height=2&section=header" width="100%"/>
-<div align="center"><sub>● 6/6 ●</sub></div>
-<br/>
-
-<div align="center">
-
-[![Support Signal](https://socialify.git.ci/mohamedbadishajji/ai-support-agent/image?description=1&font=Inter&language=1&name=1&owner=0&pattern=Diagonal+Stripes&stargazers=1&theme=Dark)](https://github.com/mohamedbadishajji/ai-support-agent)
-
-![Last Commit](https://img.shields.io/github/last-commit/mohamedbadishajji/ai-support-agent?style=flat-square&color=00D9FF&label=updated)
-![Stars](https://img.shields.io/github/stars/mohamedbadishajji/ai-support-agent?style=flat-square&color=FFD700)
-![Repo Size](https://img.shields.io/github/repo-size/mohamedbadishajji/ai-support-agent?style=flat-square&color=9370DB)
-
-`Next.js` `LangChain` `Gemini` `Supabase` `pgvector` `Vercel AI SDK` `Framer Motion`
-
-AI customer support agent using RAG to answer questions from live documentation, with streaming chat, persistent history, automatic human escalation, and multi-language support.
-
-**[→ Live Demo](https://ai-support-agent-p4y1.vercel.app/)** · **[→ View Repository](https://github.com/mohamedbadishajji/ai-support-agent)**
 
 </div>
 
@@ -169,7 +170,7 @@ AI customer support agent using RAG to answer questions from live documentation,
 ##  Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/mohamedbadishajji/mohamedbadishajji/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:9370DB&height=3&section=header" width="100%"/>
@@ -179,7 +180,7 @@ AI customer support agent using RAG to answer questions from live documentation,
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohamed-badis-hajji-1871b636b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:badis.hajji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:badis.hajji@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://mohamed-badis-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
